@@ -70,12 +70,19 @@ Optional: Can be extended to use **backend/database** for real orders.
 ## 🖼 Screenshots
 
 **Home Page:**  
+
 <img width="1911" height="911" alt="Image" src="https://github.com/user-attachments/assets/83c71880-6547-40b5-95a3-70e5b6876177" />
 
-**Menu Page:**  
+**Menu Page:** 
+
 <img width="1892" height="914" alt="Image" src="https://github.com/user-attachments/assets/800910a8-545d-4f19-aea1-a12811557561" />
 
 **Cart:**
 
+<img width="1882" height="915" alt="Image" src="https://github.com/user-attachments/assets/b39e45de-c2d7-467e-98de-939b57af9e69" />
+
+**Order bill preview:**
+
+<img width="1890" height="907" alt="Image" src="https://github.com/user-attachments/assets/b72a94fc-b539-421f-95c3-8fb6801fcb4e" />
 
 
