@@ -51,7 +51,7 @@ This is a **frontend-only online food ordering web app** with a simple and intui
 - **CSS3** – Styling & layout  
 - **JavaScript** – Interactivity & cart functionality  
 
-Optional: Can be extended to use **backend/database** for real orders.
+
 
 ---
 
