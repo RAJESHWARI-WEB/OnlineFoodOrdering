@@ -1,4 +1,4 @@
-# Food_ordering_web
+# OnlineFoodOrdering
 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -70,10 +70,12 @@ Optional: Can be extended to use **backend/database** for real orders.
 ## 🖼 Screenshots
 
 **Home Page:**  
+<img width="1911" height="911" alt="Image" src="https://github.com/user-attachments/assets/83c71880-6547-40b5-95a3-70e5b6876177" />
 
+**Menu Page:**  
+<img width="1892" height="914" alt="Image" src="https://github.com/user-attachments/assets/800910a8-545d-4f19-aea1-a12811557561" />
 
-**Menu Page with Cart:**  
-
+**Cart:**
 
 
 
