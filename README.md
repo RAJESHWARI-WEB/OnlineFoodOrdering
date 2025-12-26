@@ -1,7 +1,7 @@
 # Food_ordering_web
 
 
-![Website](https://img.shields.io/badge/Website-OnlineFoodOrdering-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 A **responsive online food ordering web application** built with **HTML, CSS, and JavaScript**. Users can browse the menu, add food items to the cart, and simulate placing an order. This project is perfect for learning front-end web development or as a starter template for food-related websites.
 
@@ -56,4 +56,36 @@ Optional: Can be extended to use **backend/database** for real orders.
 ---
 
 ## 📁 Project Structure
+📦 OnlineFoodOrdering
+┣ 📂 img # Images of food items and icons
+┣ 📜 index.html # Home page
+┣ 📜 menu.html # Menu page
+┣ 📜 about.html # About page
+┣ 📜 contact.html # Contact page
+┣ 📜 style.css # Stylesheet
+┗ 📜 script.js # JavaScript for cart and UI logic
+
+---
+
+
+---
+
+## 🖼 Screenshots
+
+**Home Page:**  
+![Home Page](https://github.com/RAJESHWARI-WEB/OnlineFoodOrdering/raw/main/img/screenshot_home.png)  
+
+**Menu Page with Cart:**  
+![Menu Page](https://github.com/RAJESHWARI-WEB/OnlineFoodOrdering/raw/main/img/screenshot_menu.png)  
+
+*(Replace above URLs with your actual screenshot images in the `img` folder)*
+
+---
+
+## ▶️ Usage
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/RAJESHWARI-WEB/OnlineFoodOrdering.git
 
