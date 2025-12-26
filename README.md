@@ -57,35 +57,23 @@ Optional: Can be extended to use **backend/database** for real orders.
 
 ## 📁 Project Structure
 📦 OnlineFoodOrdering
-┣ 📂 img # Images of food items and icons
-┣ 📜 index.html # Home page
-┣ 📜 menu.html # Menu page
-┣ 📜 about.html # About page
-┣ 📜 contact.html # Contact page
-┣ 📜 style.css # Stylesheet
-┗ 📜 script.js # JavaScript for cart and UI logic
-
----
-
+- 📂 img # Images of food items and icons
+- 📜 index.html # Home page
+- 📜 menu.html # Menu page
+- 📜 about.html # About page
+- 📜 contact.html # Contact page
+- 📜 style.css # Stylesheet
+- 📜 script.js # JavaScript for cart and UI logic
 
 ---
 
 ## 🖼 Screenshots
 
 **Home Page:**  
-![Home Page](https://github.com/RAJESHWARI-WEB/OnlineFoodOrdering/raw/main/img/screenshot_home.png)  
+
 
 **Menu Page with Cart:**  
-![Menu Page](https://github.com/RAJESHWARI-WEB/OnlineFoodOrdering/raw/main/img/screenshot_menu.png)  
 
-*(Replace above URLs with your actual screenshot images in the `img` folder)*
 
----
 
-## ▶️ Usage
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/RAJESHWARI-WEB/OnlineFoodOrdering.git
 
